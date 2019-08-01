@@ -18,7 +18,7 @@ making the page perfectly balanced. What is that you want to make perfectly bala
     })();
     ```
 1. If all went right, once you click on your newly create bookmark you should see something like this:
-    ![hello world alert](/1.make_it_work/1.hello_world.png)
+    ![hello world alert](docs/1.make_it_work/1.hello_world.png)
     
 This might be restricted by your browser. Make sure to enable.
 
