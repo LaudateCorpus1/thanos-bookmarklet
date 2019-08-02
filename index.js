@@ -14,7 +14,7 @@ javascript: (async function () {
         /* Get the element at index i */
         const el = elements[i];
 
-        /* Scroll to the element and wait for 500ms before making it disappear (optional)
+        /* Scroll to the element and wait for 500ms before making it disappear (optional) */
         scrollTo(el);
         await sleep(500);
 
